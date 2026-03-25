@@ -1,3 +1,5 @@
+
+*.bet.br
 br.betano.com
 superbet.com
 www.superbet.com
