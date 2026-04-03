@@ -1,4 +1,6 @@
 
+36t.com
+*.bet
 *.bet.br
 br.betano.com
 superbet.com
